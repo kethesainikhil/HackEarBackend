@@ -1,8 +1,8 @@
 name = "hackerearthbackend"
 compatibility_date = "2023-12-01"
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNzhlMzBmZjgtYjAzNy00ZGIyLTg1NjMtNDY5NWM5NWYzZTY1IiwidGVuYW50X2lkIjoiZjhmNmRhN2YzNmY5MTQ4ODZjM2EwNjBmYTcxMWZkODM3ZGMwOThkODUxN2JhY2RkMzBiMzk0YTgwOGQwZTI5MiIsImludGVybmFsX3NlY3JldCI6IjIzNTJlYjk1LWQyZTgtNGNiOS1hNTk0LWNjNTU5OGZiNWFlNCJ9._Q7fWZikH6gzSpcMc9Co2fbyJf3zRWFP4RPAJrIzDYY"
-RESEND_API = "re_TjqGDCMd_PzYT4ZxcMf9TSb4XiWDAPaaP"
+DATABASE_URL="YOUR_DATABASE_URL"
+RESEND_API = "YOUR_RESEND_API_KEY"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
